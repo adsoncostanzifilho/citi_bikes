@@ -415,7 +415,7 @@ class: inverse, center, middle
 
 * **More bikes on tourist attractions (mainly during the Summer weekends)!**
 .center[
-  <img src="../img/bike_gif.gif" width="80%" />
+  <img src="img/bike_gif.gif" width="80%" />
 ]
 
 
